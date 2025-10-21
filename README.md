@@ -86,16 +86,6 @@ These checks guaranteed clean, reliable data before any visualization or metric 
 
 ---
 
-## 🧠 Lessons Learned
-
-This project demonstrated how data engineering and visualization can work together to deliver business insights. Key learning points include:
-
-* The importance of cleaning and validating data before visualization.
-* The efficiency of using BigQuery SQL for KPI computation.
-* How to connect BigQuery datasets to Tableau for live updates.
-* The impact of design choices (color, spacing, axis limits) on data storytelling.
-
----
 
 ## 🚀 How to Recreate This Project
 
